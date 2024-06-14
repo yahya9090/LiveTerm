@@ -1,20 +1,19 @@
 {
   "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "LiveTerm",
-  "name": "John Doe",
-  "ascii": "liveterm",
+  "title": "danc2live term",
+  "name": "danc2live , unknown",
+  "ascii": "danc2live term",
   "social": {
-    "github": "github",
-    "linkedin": "linkedin"
+    "github": "yahya9090"
   },
-  "email": "contact@email.com",
+  "email": "https://t.me/Danc2livee",
   "ps1_hostname": "liveterm",
   "ps1_username": "visitor",
-  "repo": "https://github.com/Cveinnt/LiveTerm",
-  "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
+  "repo": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "resume_url": "https://upload.wikimedia.org/",
   "donate_urls": {
-    "paypal": "https://paypal.me/cveinnt",
-    "patreon": "https://patreon.com/cveinnt"
+    "paypal": "https://paypal.me/",
+    "patreon": "https://patreon.com/"
   },
   "colors": {
     "light": {
@@ -27,13 +26,26 @@
       "red": "#CA2124"
     },
     "dark": {
-      "background": "#2E3440",
-      "foreground": "#E5E9F0",
-      "yellow": "#5E81AC",
-      "green": "#A3BE8C",
-      "gray": "#88C0D0",
-      "blue": "#EBCB8B",
-      "red": "#BF616A"
+"terminal.background":"#1D2021",
+"terminal.foreground":"#D5C4A1",
+"terminalCursor.background":"#D5C4A1",
+"terminalCursor.foreground":"#D5C4A1",
+"terminal.ansiBlack":"#1D2021",
+"terminal.ansiBlue":"#83A598",
+"terminal.ansiBrightBlack":"#665C54",
+"terminal.ansiBrightBlue":"#83A598",
+"terminal.ansiBrightCyan":"#8EC07C",
+"terminal.ansiBrightGreen":"#B8BB26",
+"terminal.ansiBrightMagenta":"#D3869B",
+"terminal.ansiBrightRed":"#FB4934",
+"terminal.ansiBrightWhite":"#FBF1C7",
+"terminal.ansiBrightYellow":"#FABD2F",
+"terminal.ansiCyan":"#8EC07C",
+"terminal.ansiGreen":"#B8BB26",
+"terminal.ansiMagenta":"#D3869B",
+"terminal.ansiRed":"#FB4934",
+"terminal.ansiWhite":"#D5C4A1",
+"terminal.ansiYellow":"#FABD2F"
     }
   }
 }
